@@ -5,6 +5,22 @@
   text-align: center;
 }
 
+.ColorCount-red{
+  color: red;
+}
+.ColorCount-green{
+  color: green;
+}
+.ColorCount-goldenrod{
+  color: goldenrod;
+}
+
+.ColorCount-red, 
+.ColorCount-green, 
+.ColorCount-goldenrod{
+  margin: 0 10px;
+}
+
 .EightBall{
   color: white;
   font-weight: bold;
